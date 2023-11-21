@@ -36,10 +36,12 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.47.0",
+    "react-slick": "^0.29.0",
     "react-slugify": "^3.0.2",
     "sharp": "^0.32.6",
+    "slick-carousel": "^1.8.1",
     "sonner": "^1.0.3",
-    "swiper": "^10.3.1",
+    "swiper": "^11.0.4",
     "tailwind-merge": "^1.14.0",
     "tailwindcss": "3.3.3",
     "tailwindcss-animate": "^1.0.7",
@@ -49,6 +51,7 @@
     "zustand": "^4.4.1"
   },
   "devDependencies": {
-    "@types/nodemailer": "^6.4.11"
+    "@types/nodemailer": "^6.4.11",
+    "@types/react-slick": "^0.23.12"
   }
 }
